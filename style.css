@@ -9,7 +9,7 @@ h1 {
   font-size: 14px;
   margin-top: 20px;}
 
-  .Section-title{
+  .Education-title{
     text-align: center;
     font-size: 32px;
     font-weight: 500;
@@ -18,7 +18,7 @@ h1 {
     margin-bottom: 40px;
     }
   /* underline*/
-  .Section-title:: after{
+  .Education-title:: after{
     content:"";
     display: block;
     width: 45px;
@@ -27,6 +27,7 @@ h1 {
     border-radius: 2px;
   }
  
+
 
 
 
