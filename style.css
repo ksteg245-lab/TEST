@@ -9,7 +9,7 @@ h1 {
   font-size: 14px;
   margin-top: 20px;}
 
-  .Summary-title{
+  .Section-title{
     text-align: center;
     font-size: 32px;
     font-weight: 500;
@@ -18,7 +18,7 @@ h1 {
     margin-bottom: 40px;
     }
   /* underline*/
-  .Summary-title:: after{
+  .Section-title:: after{
     content:"";
     display: block;
     width: 45px;
@@ -26,55 +26,4 @@ h1 {
     margin: 10px auto 0;
     border-radius: 2px;
   }
-   .Education-title{
-    text-align: center;
-    font-size: 32px;
-    font-weight: 500;
-    color: #15173D
-    position: relative;
-    margin-bottom: 40px;
-    }
-  /* underline*/
-  .Education-title:: after{
-    content:"";
-    display: block;
-    width: 45px;
-    height: 4px;
-    margin: 10px auto 0;
-    border-radius: 2px;
-  }
-   .Work-title{
-    text-align: center;
-    font-size: 32px;
-    font-weight: 500;
-    color: #15173D
-    position: relative;
-    margin-bottom: 40px;
-    }
-  /* underline*/
-  .Work-title:: after{
-    content:"";
-    display: block;
-    width: 45px;
-    height: 4px;
-    margin: 10px auto 0;
-    border-radius: 2px;
-  }
-   .Skills-title{
-    text-align: center;
-    font-size: 32px;
-    font-weight: 500;
-    color: #15173D
-    position: relative;
-    margin-bottom: 40px;
-    }
-  /* underline*/
-  .Skills-title:: after{
-    content:"";
-    display: block;
-    width: 45px;
-    height: 4px;
-    margin: 10px auto 0;
-    border-radius: 2px;
-  }
-  
+ 
