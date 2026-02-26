@@ -4,6 +4,11 @@ body {
   text-align: center;
 }
 
+ul
+{  
+              padding-left: 12px;
+}
+
 h1 {
   color: #000000;
   font-size: 14px;
@@ -26,6 +31,7 @@ h1 {
   margin-bottom: 15px;
 }
  
+
 
 
 
